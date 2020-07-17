@@ -1,6 +1,5 @@
 def new_hash
-hash = {:key => "whatever", :key_x => "also whatever"}
-  hash
+  hash = {:key => "whatever", :key_x => "also whatever"}  return hash
 end
 
 def actor
