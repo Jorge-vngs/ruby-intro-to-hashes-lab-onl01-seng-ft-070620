@@ -1,5 +1,8 @@
 def new_hash
-  hash = {key: => "whatever", key_x: => "also whatever"}  return hash
+  flatiron_school = {
+  instructors: ["Avi", "Rose"], 
+  dev_team: ["Jonas", "Logan"]
+}
 end
 
 def actor
