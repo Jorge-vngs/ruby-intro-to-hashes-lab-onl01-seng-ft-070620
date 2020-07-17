@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  actor_hast = {name: => "Dwayne The Rock Johnson", :age => "old"}
+  actor_hast = {name: => "Dwayne The Rock Johnson", age: => "old"}
   name = actor_hast[name:]
   return actor_hast
 end
