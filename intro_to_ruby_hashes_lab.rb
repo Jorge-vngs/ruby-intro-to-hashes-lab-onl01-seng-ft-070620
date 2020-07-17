@@ -2,7 +2,9 @@ def new_hash
   flatiron_school = {
   instructors: ["Avi", "Rose"], 
   dev_team: ["Jonas", "Logan"]
+  empty_hash: []
 }
+
 end
 
 def actor
