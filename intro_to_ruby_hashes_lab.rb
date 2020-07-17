@@ -3,8 +3,7 @@ def new_hash
 end
 
 def actor
-  actor_hast = {name: => "Dwayne The Rock Johnson", age: => "old"}
-  return actor_hast[name:]
+  actor = {name: "Dwayne The Rock Johnson"}
 end
 
 
