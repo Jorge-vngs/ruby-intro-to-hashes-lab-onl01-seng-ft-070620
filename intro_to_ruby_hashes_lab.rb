@@ -4,9 +4,10 @@ end
 
 def actor
   actor_hast = {name: => "Dwayne Johnson", age: => "old"}
-  name =
+  name = actor_hast[name:]
+  return name 
 end
-flatiron_school[:instructors]
+
 
 
 
