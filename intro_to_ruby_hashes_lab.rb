@@ -4,8 +4,7 @@ end
 
 def actor
   actor_hast = {name: => "Dwayne The Rock Johnson", age: => "old"}
-  name = actor_hast[name:]
-  return actor_hast
+  return actor_hast[name:]
 end
 
 
