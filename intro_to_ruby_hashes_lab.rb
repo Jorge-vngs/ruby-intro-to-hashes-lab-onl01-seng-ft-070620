@@ -4,7 +4,7 @@ def new_hash
   dev_team: ["Jonas", "Logan"]
   empty_hash: []
 }
-empty_hash = 
+flatiron_school = empty_hash 
 end
 
 def actor
