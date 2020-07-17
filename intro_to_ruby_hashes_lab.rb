@@ -4,8 +4,11 @@ end
 
 def actor
   actor_hast = {name: => "Dwayne Johnson", age: => "old"}
-  actor_hast
+  name =
 end
+flatiron_school[:instructors]
+
+
 
 def monopoly
 	monopoly = {}
